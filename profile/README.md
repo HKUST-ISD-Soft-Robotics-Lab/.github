@@ -1,4 +1,17 @@
-## Welcome to HKUST Soft Robotics Lab's GitHub
+# Welcome to HKUST Soft Robotics Lab's GitHub
+
+Welcome to HKUST ISD Soft Robotics Lab’s GitHub. Our lab is led by [Prof. Rob SCHARFF](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=rob-scharff-scharffrbn). Our lab is under the Division of Integrative Systems and Design (ISD).
+
+Our lab research focus spans in Soft Robotics containing, but not limited to:
+
+- Soft Actuators
+- Artificial Muscles
+- Soft Robotic Arms
+- Tactile Sensing
+- Actuators Proprioception
+- Bio-mimetic Mechanisms and Robots
+- Compliant Mechanisms
+- ……
 
 <!--
 
